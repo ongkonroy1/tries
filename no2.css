@@ -12,10 +12,10 @@ body{
       padding: 20px;
 }
 .nav{
-    flex: 1;
+    flex: 3;
     text-align: right;
-    padding-left: 50px;
-    margin-left: 50px;
+    padding-right: 50px;
+    margin-right: 50px;
 }
  nav ul{
       display: inline-block;
